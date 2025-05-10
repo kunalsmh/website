@@ -26,7 +26,7 @@
   });
 </script>
 
-<div class="min-h-screen bg-[#090909] text-white flex items-start justify-start p-12">
+<div class="min-h-screen text-white flex items-start justify-start p-12">
   {#if showContent}
     <div class="space-y-6 max-w-lg text-[20px]">
       <div class="w-6 h-6 bg-orange-600" in:scale={{ duration: 400 }}></div>
