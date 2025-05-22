@@ -11,8 +11,8 @@
 
   let showContent = false;
   /**
-	 * @type {any[]}
-	 */
+   * @type {any[]}
+   */
   let showLinks = [];
 
   onMount(() => {
@@ -32,8 +32,26 @@
       <div class="w-6 h-6 bg-orange-600" in:scale={{ duration: 400 }}></div>
 
       <div class="space-y-1 text-wc font-normal" in:fade={{ duration: 600 }}>
-        <p>Hobbyist software developer from Mumbai, India.</p>
-        <p>I like airplanes, tech, photography and gaming!</p>
+        <p>
+          Hobbyist software 
+          <a
+            href="https://github.com/kunalsmh"
+            class="hover:text-blue-500 transition-colors duration-300 cursor-pointer no-underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            developer
+          </a> and 
+          <a
+            href="/showcase"
+            class="hover:text-blue-500 transition-colors duration-300 cursor-pointer no-underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            videographer
+          </a>.
+        </p>
+        <p>I like travelling, airplanes, tech and gaming!</p>
         <p>Open to chat about new opportunities.</p>
       </div>
 
