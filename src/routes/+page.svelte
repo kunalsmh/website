@@ -31,7 +31,7 @@
     <div class="space-y-6 max-w-lg text-[20px]">
       <div class="w-6 h-6 bg-orange-600" in:scale={{ duration: 400 }}></div>
 
-      <div class="space-y-1 text-wc font-normal" in:fade={{ duration: 600 }}>
+      <div class="space-y-1 text-wc font-normal" in:fade={{ duration: 400 }}>
         <p>
           Hobbyist software 
           <a
@@ -51,7 +51,7 @@
             videographer
           </a>.
         </p>
-        <p>I like travelling, airplanes, tech and gaming!</p>
+        <p>I like coding, travelling, airplanes and gaming!</p>
         <p>Open to chat about new opportunities.</p>
       </div>
 
