@@ -43,7 +43,7 @@
             developer
           </a> and 
           <a
-            href="/showcase"
+            href="https://youtube.com/@hiftie"
             class="hover:text-blue-500 transition-colors duration-300 cursor-pointer no-underline"
             target="_blank"
             rel="noopener noreferrer"
