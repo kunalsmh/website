@@ -6,7 +6,7 @@
     { name: "X", href: "https://x.com/dihologist" },
     { name: "EMAIL", href: "mailto:hello@kunalsh.com" },
     { name: "GITHUB", href: "https://github.com/kunalsmh" },
-    { name: "YOUTUBE", href: "https://youtube.com/hiftie" }
+    { name: "YOUTUBE", href: "https://youtube.com/@hiftie" }
   ];
 
   let showBox = false;
