@@ -102,17 +102,16 @@
 				<p>
 					Currently making
 					<a
-						href="https://github.com/heartpost"
-						class="cursor-pointer text-blue-500 no-underline transition-colors duration-300"
-						target="_blank"
-						rel="noopener noreferrer"
+						href="/heartpost"
+						class="cursor-pointer text-blue-500 no-underline hover:text-blue-400"
 					>
 						@heartpost
 					</a>
+
 					and
 					<a
-						href="https://github.com/heartpost"
-						class="cursor-pointer text-blue-500 no-underline transition-colors duration-300"
+						href="https://github.com/kunalsmh/drips.fit"
+						class="cursor-pointer text-blue-500 no-underline hover:text-blue-400"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
