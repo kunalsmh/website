@@ -1,6 +1,9 @@
 <svelte:head>
-	<title>Digital mailbox but 10x more inconvenient</title>
-	<meta name="description" content="A small letterbox with a screen that displays short messages" />
+	<title>Heartpost</title>
+	<meta name="description" content="A small mailbox that displays text on a screen!" />
+	<meta property="og:title" content="Heartpost" />
+	<meta property="og:description" content="A small mailbox that displays text on a screen!" />
+	<meta property="og:type" content="website" />
 </svelte:head>
 
 <script>
