@@ -1,6 +1,6 @@
 <svelte:head>
 	<title>Digital mailbox but 10x more inconvenient</title>
-	<meta name="description" content="A small physical mailbox with a screen" />
+	<meta name="description" content="A small letterbox with a screen that displays short messages" />
 </svelte:head>
 
 <script>
