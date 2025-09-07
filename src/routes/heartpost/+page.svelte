@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>Digital mailbox but 10x more inconvenient</title>
+	<meta name="description" content="A small physical mailbox with a screen" />
+</svelte:head>
+
 <script>
 	import { fade, scale } from 'svelte/transition';
 	import { onMount } from 'svelte';
