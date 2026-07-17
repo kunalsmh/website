@@ -7,7 +7,9 @@ import { HiOutlineMail } from "react-icons/hi";
 import AsciiCat from "@/components/ascii-cat";
 import DiscordBubble from "@/components/discord-bubble";
 
-const LINKS = [{ label: "LETTERBOXD", href: "/letterboxd" }];
+const LINKS = [
+  { label: "GALLERY", href: "/gallery" },
+];
 
 const EMAIL = "hello@kunalsh.com";
 
